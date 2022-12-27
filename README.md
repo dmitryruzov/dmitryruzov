@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dmitryruzov
-- 👀 I’m interested in fpv drones, fpv drone stab video, etc...
+- 👀 I’m interested in fpv drones, fpv drone video stab, etc...
 - 🌱 I’m currently learning python drones programming. 
 - 💞️ I’m looking to collaborate on ... not yet
 - 📫 How to reach me ... mail me! 
